@@ -1,15 +1,18 @@
-# Episode 4: "The Reading" (or idk, AI it is until then)
+# Episode 4: "Castellan Vey"
 
 **Series:** *Floaty Islands with crystals* (working title)
 **Runtime target:** 18-24 minutes
 **Threads featured:**
-- B (The Spire) - secondary storyline with "the government" - the only thread this episode. First full Spire-only episode, no Tethermoor/Wren/June at all.
+
+- B (The Spire) - secondary storyline with "the government" - the only thread in this episode. First full Spire-only episode, no Tethermoor/Wren/June at all.
 
 **Max on-screen at once:** 3 (Scenes 7, 8, and 12 (possibly scene 3, crowd needed there, I was really afraid to write a crowd, might have to take it out))
 
 ---
 
-## Exposition (read this if something doesn't make sense, otherwise skip until the end):
+## SPOILER WARNING
+## Exposition 
+### (Read this only if something doesn't make sense, otherwise skip until the end.)
 
 > This episode picks up shortly after Episode 3, Vey has the planted document and the feather Rell left in the records office.
 
@@ -17,7 +20,7 @@
 
 > Rell's exact former position is not revealed this episode, only that she held real rank inside the Spire's crystal operations, enough that she understood housing failures better than current outpost staff, and enough that older clerks still remember her name on sight (see Ep3, Scene 6).
 
-> Why Vey wants to handle this herself (rather than hand it to Brask or Spire security) is not explained yet. The episode should make it clear that she  wants Rell found and wants her unharmed, without saying why.
+> Why Vey wants to handle this herself (rather than hand it to Brask or Spire security) is not explained yet. The episode should make it clear that she wants Rell found and wants her unharmed, without saying why.
 
 > Vey's drinking is new,  a direct response to the weight of the crystal crisis, and to being the only person who has the full picture and no one to share it with. She has no family. This should read as private and controlled, not as a public spectacle, something only the audience (and maybe one other small, quiet observer) sees clearly.
 
@@ -36,7 +39,7 @@
 
 > **Ottlin is Treasurer.** His cowardice isn't only a personality trait, it's also part of his job. He needs to see numbers before acting on anything.
 
-> **The Crystal Warden and the Chancellor both hold their seats but are unseen this episode** , both away, both summoned back for the coming vote. Their absence is real and complicates the vote's legitimacy, not just background color.
+> **The Crystal Warden and the Chancellor both hold their seats but are unseen this episode**, both away, both summoned back for the coming vote. Their absence is real and complicates the vote's legitimacy, not just background color.
 
 ---
 
@@ -46,9 +49,9 @@
 
 - **Overseer Castellan Vey** - head of state and Castellan of the Spire. **Female.** Composed, tired in a way she hides well. Measured and quiet even under pressure. *(This episode pushes past the composure a little, we see what it costs her to maintain it.)*
 
-- ** Councilor Commander Brask** - head of law enforcement and the military. **Male.** Clipped, impatient, treats hesitation as weakness. *(This episode, Brask stops waiting on Vey and starts building support of his own. Not a villain turn, he genuinely believes he's right, the numbers are increasingly on his side, and this episode he sees the human cost of waiting firsthand, on the ground, before the Council ever votes.)*
+- **Councilor Commander Brask** - head of law enforcement and the military. **Male.** Clipped, impatient, treats hesitation as weakness. *(This episode, Brask stops waiting on Vey and starts building support of his own. Not a villain turn, he genuinely believes he's right, the numbers are increasingly on his side, and this episode he sees the human cost of waiting firsthand, on the ground, before the Council ever votes.)*
 
-## New Characters this episode:
+## New Characters in this episode:
 
 - **Councilor Treasurer Ottlin** - head of finance. **Male.** Cautious, non-committal, the kind of person who waits to see which way the wind blows before speaking, though as Treasurer, that caution is at least partly professional, not just temperament. Voice should be soft, fond of phrases like "in principle" and "that said." Not unintelligent, just conflict-averse. Ottlin avoids conflict to protect himself, but he genuinely does need the numbers before he'll move.
 
@@ -83,7 +86,7 @@
 
 *(Vey looks at him properly for the first time this scene.)*
 
-> **VEY:** (a little bit annoyed) Then why haven't you said "I told you so" yet?
+> **VEY:** *(a little bit annoyed)* Then why haven't you said "I told you so" yet?
 
 > **BRASK:** *(simply)* Because I'd rather be right with you than without you. *(pause)* That's still on the table, Overseer. For now.
 
@@ -92,17 +95,17 @@
 ---
 
 ## Scene 2 - The Spire, lower district dock, Brask and Commander
-*(Thread B. ~NEW. ~35 seconds.)*
+*(Thread B. NEW. ~35 seconds.)*
 
 **SETTING:** A working dock in the Spire's lower district, less ceremonial than the upper Council halls, crates of rationed crystal-powered goods being checked against lists. A small crowd has gathered, tense, a few raised voices. A Guard Captain pushes through to find Brask, who's just arrived from the vault.
 
-> **GUARD CAPTAIN:** *(low, urgent, falling into step beside him)* Commander. Crystal supply is short of the quota again.  Word's already gotten around the dock before we could manage it.
+> **GUARD CAPTAIN:** *(low, urgent, falling into step beside him)* Commander. Crystal supply is short of the quota again. Word's already gotten around the dock before we could manage it.
 
-> **BRASK:** *(not slowing)* How short.
+> **BRASK:** *(not slowing)* How short?
 
 > **GUARD CAPTAIN:** Quarter under, maybe more. People are saying it's the third time this week.
 
-*(They round the corner to the crowd. Voices rising:"that's not enough for the whole block," "where's the rest of it," someone shoving a crate off a stack out of frustration rather than aggression. Brask stops, takes it in for a beat before moving.)*
+*(They round the corner to the crowd. Voices rising: "That's not enough for the whole block!", "Where's the rest of it?". Someone shoving a crate off a stack out of frustration rather than aggression. Brask stops, takes it in for a beat before moving.)*
 
 > **BRASK:** *(quiet, to the Captain, not unkind)* It is the third time this week.
 
@@ -111,7 +114,7 @@
 ---
 
 ## Scene 3 - The dock, the unrest (Brask)
-*(Thread B. ~NEW. ~55 seconds.)*
+*(Thread B. NEW. ~55 seconds.)*
 
 **SETTING:** Continuous from Scene 2. Brask moves through the crowd with the calm, practiced authority of someone used to being the most dangerous person in a room without raising his voice. Guards loosely behind him.
 
@@ -119,7 +122,7 @@
 
 > **BRASK:** *(even, direct)* I'm going to explain it. Crystal supply's short. Has been for weeks. Every shipment from here out is going to be lighter than the last one.
 
-*(That lands harder than a denial would have, a ripple through the crowd, a moment of complete slience. Some people get anrgier, some stay quiet.)*
+*(That lands harder than a denial would have, a ripple through the crowd, a moment of complete silence. Some people get angrier, some stay quiet.)*
 
 > **DOCKWORKER (2):** *(sharper)* So what, we just go without?
 
@@ -173,7 +176,7 @@
 
 **SETTING:** A modest waiting room outside the main Council chamber, a few chairs, a low table, nothing grand. Ottlin is already seated when Brask enters, mid-conversation as if continuing something from earlier.
 
-> **OTTLIN:**  I'm not saying I disagree, Brask. I'm saying the Overseer hasn't brought it to a vote, and until she does, it's not really a Council matter, is it. It's a... a discussion.
+> **OTTLIN:** I'm not saying I disagree, Brask. I'm saying the Overseer hasn't brought it to a vote, and until she does, it's not really a Council matter, is it? It's a... a discussion.
 
 > **BRASK:** *(flatter than usual, the dock still fresh)* It's three structural failures in a week, Ottlin, and a dock full of people who almost put hands on a guard this morning over a quota shortfall. It stops being a discussion at some point.
 
@@ -216,7 +219,7 @@
 
 > **RESKA:** *(careful)* Should I keep looking, Overseer?
 
-> **VEY:** *(recovering, composed again, "the mask back on")* No. *(pause)* Yes. *(catching the contradiction, almost a dry, tired smile)* Quietly. Just to me. Not to anyone else. Especiall not Brask.
+> **VEY:** *(recovering, composed again, "the mask back on")* No. *(pause)* Yes. *(catching the contradiction, almost a dry, tired smile)* Quietly. Just to me. Not to anyone else. Especially not Brask.
 
 > **RESKA:** *(nodding, understanding more than she lets on)* Understood.
 
@@ -243,7 +246,7 @@
 
 *(That lands. Ottlin shifts slightly, uncomfortable but not disagreeing.)*
 
-> **VEY:** *(carefully)* On what basi?  Whose numbers?
+> **VEY:** *(carefully)* On what basis? Whose numbers?
 
 > **BRASK:** Mine. The outpost reports. Yours too, if you'd let anyone see the readings instead of keeping them to yourself.
 
@@ -263,17 +266,17 @@
 
 *(Brask studies her for a long moment, then nods: not satisfied, but willing to hold. He glances at Ottlin.)*
 
-> **BRASK:** I'll hold the vote. 
+> **BRASK:** I'll hold the vote.
 
 > **OTTLIN:** *(quiet, mostly to himself)* For what it's worth, I'd like the missing seats back before anyone votes on anything. Numbers feel thinner with empty chairs at the table.
 
-*(Vey nods at that, almost grateful. The session ends without further words. Vhairs shifting, the three of them rising and leaving. Cut.)*
+*(Vey nods at that, almost grateful. The session ends without further words. Chairs shifting, the three of them rising and leaving. Cut.)*
 
 ---
 ## Scene 8 - Corridor, after the chamber, Ottlin and Brask (Vey)
 *(Thread B. ~30 seconds. Max on-screen: 3 - Vey, Brask, Ottlin)*
 
-**SETTING:** Just outside the chamber. Vey walks ahead. Brask and Ottlin follow a few steps behind, just out of easy earshot of Vey ,though she can probably still hear fragments.
+**SETTING:** Just outside the chamber. Vey walks ahead. Brask and Ottlin follow a few steps behind, just out of easy earshot of Vey, though she can probably still hear fragments.
 
 > **OTTLIN:** *(low, to Brask)* You really think she's chasing something real? Or just buying time?
 
@@ -284,7 +287,7 @@
 ---
 
 ## Scene 9 - Vey's office, Vey and Courier
-*(Thread B. ~NEW. ~30 seconds.)*
+*(Thread B. NEW. ~30 seconds.)*
 
 **SETTING:** Back in Vey's office, continuous or shortly after. Vey is composing a short summons. A Courier/Clerk waits at the door.
 
@@ -299,7 +302,7 @@
 ---
 
 ## Scene 10 - Treasurer's office, Ottlin alone
-*(Thread B. ~NEW. ~40 seconds.)*
+*(Thread B. NEW. ~40 seconds.)*
 
 **SETTING:** A new small set: Ottlin's own working space, smaller and more cluttered than Vey's, ledgers stacked with more care than the room itself suggests. Ottlin sits alone, running numbers, muttering to himself.
 
@@ -314,7 +317,7 @@
 ---
 
 ## Scene 11 - Treasurer's office, lobbied
-*(Thread B. ~NEW. ~60 seconds.)*
+*(Thread B. NEW. ~60 seconds.)*
 
 **SETTING:** Continuous. First Brask enters, direct as ever.
 
@@ -343,7 +346,7 @@
 ---
 
 ## Scene 12 - Corridor outside the records office, Reska and clerks
-*(Thread B. ~NEW. ~30 seconds.)*
+*(Thread B. NEW. ~30 seconds.)*
 
 **SETTING:** A corridor near the archive level, shortly after the chamber session. Reska is walking back to her desk with a stack of files when she passes two clerks talking in lowered voices near a doorway. She slows, listens without making it obvious, a skill she clearly has practice with.
 
@@ -356,9 +359,9 @@
 ---
 
 ## Scene 13 - Vey's office, the courier returns
-*(Thread B. ~NEW. ~45 seconds.)*
+*(Thread B. NEW. ~45 seconds.)*
 
-**SETTING:** Some time later, same office. The Courier returns, slightly out of breath, two responses in hand. one a proper sealed letter, one looking more hastily scrawled.
+**SETTING:** Some time later, same office. The Courier returns, slightly out of breath, two responses in hand. One a proper sealed letter, one looking more hastily scrawled.
 
 > **COURIER:** *(handing over the first)* Crystal Warden's response, Overseer. They say they need around three days, the survey work's not finished, and they'd rather come back with real numbers than half of them.
 
@@ -383,11 +386,11 @@
 ---
 
 ## Scene 14 - Brask, alone
-*(Thread B. ~NEW. ~25 seconds.)*
+*(Thread B. NEW. ~25 seconds.)*
 
 **SETTING:** A quiet stretch of corridor or a balcony overlooking the Spire's lower district, the same district from Scenes 2-3, now calm again from this distance. Brask stands alone for a moment, the only time we see him without an audience this entire episode.
 
-*(He looks down at the dock, quiet now. Sighse, the first real sign of fatigue we've seen from him.)*
+*(He looks down at the dock, quiet now. Sighs, the first real sign of fatigue we've seen from him.)*
 
 > **BRASK:** *(quiet, to himself)* One more season like this and there won't be a vote left to hold.
 
@@ -399,7 +402,7 @@
 ## Scene 15 - Vey's quarters, night
 *(Thread B. ~90 seconds. NEW SET - first time we see Vey somewhere that isn't an office or chamber. Modest, lived-in but spare, the room of someone who is rarely home and doesn't decorate for guests she never has.)*
 
-**SETTING:** A small private room. A single lamp lit. A desk by the window,the planted documentand the feather from earlier, now both laid out together, alongside the two unsatisfying letters from the Crystal Warden and the Chancellor. A bottle, mostly full, and a glass, not empty. Vey sits alone, still in her formal clothes, collar loosened slightly: the only visible "off duty" tell we get from her all series so far.
+**SETTING:** A small private room. A single lamp lit. A desk by the window, the planted document and the feather from earlier, now both laid out together, alongside the two unsatisfying letters from the Crystal Warden and the Chancellor. A bottle, mostly full, and a glass, not empty. Vey sits alone, still in her formal clothes, collar loosened slightly: the only visible "off duty" tell we get from her all series so far.
 
 *(She pours a measure into the glass. Doesn't drink yet. Picks up the feather instead, turns it over once.)*
 
@@ -417,7 +420,7 @@
 
 > **VEY:** *(quiet, final, more to herself than anyone)* Not yet.
 
-*(The same words she's used on Brask twice this episode, but this time there's no one to say them to. She pours a second measure. Doesn't drink it immediately. Just sits, looking at the feather, the lamp the only light in the room. Hold on this for a fee seconds longer than feels comfortable. Cut to black.)*
+*(The same words she's used on Brask twice this episode, but this time there's no one to say them to. She pours a second measure. Doesn't drink it immediately. Just sits, looking at the feather, the lamp the only light in the room. Hold on this for a few   seconds longer than feels comfortable. Cut to black.)*
 
 **[End episode 4]**
 
