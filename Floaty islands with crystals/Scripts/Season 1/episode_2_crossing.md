@@ -98,7 +98,7 @@
 
 > **BRASK:** *(quietly, to no one)* You'll have the reading, you just won't like it.
 
-*(Cut)*
+*(Cut.)*
 
 ---
 
@@ -426,12 +426,12 @@
 
 > **WREN:** *(small, funny)* No promises.
 
-*(Almost a smile from Hask, cut)*
+*(Almost a smile from Hask, cut.)*
 
 ---
 
 ## Scene 14 - Taking off
-*(Thread A, C. ~25 seconds)*
+*(Thread A & C. ~25 seconds)*
 
 **SETTING:** Dock, June's small ship next to Rell's larger one
 
@@ -460,7 +460,7 @@
 ---
 
 ## Scene 15 - Tethermoor - The bar - Bram
-*(Thread D, ~60 seconds)*
+*(Thread D. ~60 seconds.)*
 
 **SETTING:** The same bar, Bram is sitting at the counter, talking to nobody, as he has no audience left other than Tova.
 
@@ -507,7 +507,7 @@
 ---
 
 ## Scene 16 - The patrol stop
-*(Thread A & C. ~90 seconds. Max on-screen: 5 - Wren, June, Rell, Hask, Patrol Officer)*
+*(Thread A & C. ~90 seconds. Max on-screen: 5 - Wren, June, Rell, Hask, Patrol Officer.)*
 
 **SETTING:** Open sky, both ships flying close together June's small airship alongside a larger trader vessel (Rell and Hask's). Wren and June at the controls of their own ship.
 
@@ -551,12 +551,12 @@
 
 *(June doesn't hesitate - engines firing. Both ships peel away from the patrol vessel fast, leaving the Officer still shouting orders into the smoke behind them.)*
 
-*(ships flying into the open, smoke from the patrol ship, cut)*
+*(Ships flying into the open, smoke from the patrol ship, cut.)*
 
 ---
 
 ## Scene 17 - Clear of it
-*(Thread A ~20 seconds.)*
+*(Thread A. ~20 seconds.)*
 
 **SETTING:** Open sky again, the patrol vessel now small and distant behind them. Wren and June catching their breath in their cabin. Rell's ship flies steady alongside.
 
@@ -577,7 +577,7 @@
 ---
 
 ## Scene 18 - Approaching a cluster
-*(Thread A  & C ~65 seconds.)*
+*(Thread A & C. ~65 seconds.)*
 
 **SETTING:** Wide shot, open sky, a larger cluster now visible in the distance for the first time. Has a big building on it, with a giant dock, it's some kind of trading hall
 
@@ -615,7 +615,7 @@
 
 > **RELL:** Remember that favour?
 
-*(cut)*
+*(Cut.)*
 
 **[End of Episode 2]**
 

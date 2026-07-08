@@ -274,7 +274,7 @@
 
 ---
 ## Scene 8 - Corridor, after the chamber, Ottlin and Brask (Vey)
-*(Thread B. ~30 seconds. Max on-screen: 3 - Vey, Brask, Ottlin)*
+*(Thread B. ~30 seconds. Max on-screen: 3 - Vey, Brask, Ottlin.)*
 
 **SETTING:** Just outside the chamber. Vey walks ahead. Brask and Ottlin follow a few steps behind, just out of easy earshot of Vey, though she can probably still hear fragments.
 

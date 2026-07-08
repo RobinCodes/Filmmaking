@@ -90,7 +90,7 @@
 ---
 
 ## Scene 2 - The dock, briefing
-*(Thread A & C. ~75 seconds)*
+*(Thread A & C. ~75 seconds.)*
 
 **SETTING:** A large dock, not too well maintained, but official; Actual Spire-marked crates, a few uniformed officials moving between buildings. Rell pulls Wren and June aside before they head toward the registration desk, Hask is left behind. 
 
@@ -226,7 +226,7 @@
 
 > **RELL:** *(going into the office, light)* I'll wait for him inside!
 
-*(Cut to inside: a records office, shelves and document boxes everywhere, mildly chaotic. Rell is alone, looking unhurried despite being on a clock. She looks on the shelves, and in boxes, until she finds a document, she quickly flips through it, and puts it away. She walks towards a desk (not the main one) and puts a thin folder on it, with a feather sticking out. She heads for the door, the director's voice can be heard from behind the bathroom door)*
+*(Cut to inside: a records office, shelves and document boxes everywhere, mildly chaotic. Rell is alone, looking unhurried despite being on a clock. She looks on the shelves, and in boxes, until she finds a document, she quickly flips through it, and puts it away. She walks towards a desk (not the main one) and puts a thin folder on it, with a feather sticking out. She heads for the door, the director's voice can be heard from behind the bathroom door.)*
 
 > **DIRECTOR PELL:** *(humiliated)* Hey pal, could you bring me some more toilet paper please? And what was that guest's name again?
 
@@ -270,7 +270,7 @@
 ---
 
 ## Scene 8 - The vault
-*(Thread C. (~35 seconds.) No dialogue needed for most of this, time is also largely dependent on how we film it)*
+*(Thread C. (~35 seconds.) No dialogue needed for most of this, time is also largely dependent on how we film it.)*
 
 **SETTING:** The storage building's side, away from the main dock, above where Wren and June worked earlier. 
 

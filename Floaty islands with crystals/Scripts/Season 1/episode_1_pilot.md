@@ -36,7 +36,7 @@
 
 - **Doss** — the cluster's pragmatic leader. **Male.** Not unkind, but conflict-averse; has spent years keeping Tethermoor's head down so the Spire never has a reason to notice them. Voice should be tired-but-steady, a bit gruff, the tone of someone used to being the one who says "no" so nobody else has to. Softens noticeably around Pip.
 
-- **Sora** — Wren's best friend; airship mechanic and occasional pilot. **Female.**  Confident, a little reckless, talks fast and teases easily, but genuinely reliable when it counts. The contrast to Wren: where Wren is careful and methodical, Sora is impulsive and improvises. Voice should be loose, energetic, quick with a joke, but capable of being completely serious in a heartbeat when something actually matters.
+- **June** — *legacy: Sora* - Wren's best friend; airship mechanic and occasional pilot. **Female.**  Confident, a little reckless, talks fast and teases easily, but genuinely reliable when it counts. The contrast to Wren: where Wren is careful and methodical, June is impulsive and improvises. Voice should be loose, energetic, quick with a joke, but capable of being completely serious in a heartbeat when something actually matters.
 
 - **Marl** — one-time / secondary character. **Male.** Older resident, lives near the crystal house. First to notice the crack. Voice should be weathered, unhurried, a little superstitious, someone who's lived through enough island history to be calm about most things.
 
@@ -114,7 +114,7 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 > **WREN:** I know. I just want to be sure.
 
-*(She exits. Marl stays behind, looking at the crystal alone for a moment - do a nice cut)*
+*(She exits. Marl stays behind, looking at the crystal alone for a moment - do a nice cut.)*
 
 ---
 
@@ -164,7 +164,7 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 ## Scene 4 — Tethermoor, Social square
 
-*(Thread A)*
+*(Thread A.)*
 
 **SETTING:** Midday. Doss is looking in barrels. Pip is next to him, running around him. Wren and Yara arrive together.
 
@@ -224,7 +224,7 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 > **DOSS:** *(to Yara)* Do you think she heard anything I said after "ship"?
 
-*(Yara laughs quietly, zoom out, possibly not a cut but the camera traveling, but will probably need to cut because of the lack of actors)*
+*(Yara laughs quietly, zoom out, possibly not a cut but the camera traveling, but will probably need to cut because of the lack of actors.)*
 
 ---
 
@@ -232,25 +232,25 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 *(Thread A.)*
 
-**SETTING:** Afternoon. Dock with around 3-4 airship spaces. Only one airship in the dock in a repair area, Sora is inside it, muttering to herself, tools scattered around. The airship hangs on ropes holding it up/keeping it from falling. Wren approaches.
+**SETTING:** Afternoon. Dock with around 3-4 airship spaces. Only one airship in the dock in a repair area, June is inside it, muttering to herself, tools scattered around. The airship hangs on ropes holding it up/keeping it from falling. Wren approaches.
 
 > **WREN:** Please tell me that thing still flies.
 
-> **SORA:** *(not looking up, voice slightly muffled)* Define "flies."
+> **June:** *(not looking up, voice slightly muffled)* Define "flies."
 
-> **WREN:** *(little bit annoyed, but also friendly, as she knows her friend)* Sora...
+> **WREN:** *(little bit annoyed, but also friendly, as she knows her friend)* June...
 
-> **SORA:** *(comes out from the airship)* It flew. Past tense. The crystal can barely even lift itself, it probably broke before any of us were even born. So this is one of the few ships which has a working balloon! Or just had... Some old sailor crashed it into our dock after the heat engine broke.
+> **June:** *(comes out from the airship)* It flew. Past tense. The crystal can barely even lift itself, it probably broke before any of us were even born. So this is one of the few ships which has a working balloon! Or just had... Some old sailor crashed it into our dock after the heat engine broke.
 
 > **WREN:** Can you fix it?
 
-> **SORA:** *(kinda ironic tone, kind)* Can *I* fix it? No. Can *you*? Probably, if you stopped asking questions and started looking at it.
+> **June:** *(kinda ironic tone, kind)* Can *I* fix it? No. Can *you*? Probably, if you stopped asking questions and started looking at it.
 
 *(Wren laughs.)*
 
 > **WREN:** Do you think the sailor will let us borrow their ship?
 
-> **SORA:** No need, I bought the ship. Got it for a few gold and a barrel of bread. 
+> **June:** No need, I bought the ship. Got it for a few gold and a barrel of bread. 
 
 > **WREN:** *(happy for her friend)* Oooooohhhh, so it's yours!
 
@@ -258,13 +258,13 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 > **WREN:** So can you give me a ride? I need to get to the Spire. Today, if I can.
 
-*(Sora's grin fades slightly, looks at Wren for a second.)*
+*(June's grin fades slightly, looks at Wren for a second.)*
 
-> **SORA:** This about the crystal? Marl wouldn't stop talking about it.
+> **June:** This about the crystal? Marl wouldn't stop talking about it.
 
 > **WREN:** It's cracked. I need them to send a keeper out before it gets worse.
 
-> **SORA:** *(lighter again, trying to keep it from getting too heavy)* Well. Lucky for you, I happen to know an excellent mechanic.
+> **June:** *(lighter again, trying to keep it from getting too heavy)* Well. Lucky for you, I happen to know an excellent mechanic.
 
 > **WREN:** *(ready for work)* Hand me the small spanner!
 
@@ -276,37 +276,37 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 **SETTING:** A little bit later (20 minutes stated), make an epic transition, they fix the airship
 
-> **SORA:** *(handing her a part)* You know, if I give you a ride, that technically makes it a trade. I should get something out of this too.
+> **June:** *(handing her a part)* You know, if I give you a ride, that technically makes it a trade. I should get something out of this too.
 
 > **WREN:** *(not looking up)* You get a working ship.
 
-> **SORA:** I get a working ship I'm *flying you* in. Across open sky. To the Spire. Where I will almost certainly get bored in some waiting room while you talk to people in robes.
+> **June:** I get a working ship I'm *flying you* in. Across open sky. To the Spire. Where I will almost certainly get bored in some waiting room while you talk to people in robes.
 
 > **WREN:** *(small laugh)* Fine. You can come in with me.
 
-> **SORA:** *(immediately, too quickly)* I didn't say I wanted to come in with you.
+> **June:** *(immediately, too quickly)* I didn't say I wanted to come in with you.
 
-> **WREN:** *(glancing at her)* Sora.
+> **WREN:** *(glancing at her)* June.
 
-> **SORA:** ...Somebody's got to make sure you don't insult an Overseer's clerk by accident.
+> **June:** ...Somebody's got to make sure you don't insult an Overseer's clerk by accident.
 
 *(Engine noises, the engine starts)*
 
 > **WREN:** There. This will hold up until we get to the Spire. But you should get it properly checked when we get there, *(jokingly)* you don't want to crash it on a random cluster and sell it for a barrel of bread. Or, if you're such a good trader you could buy an airship crystal for her, she deserves a proper way of flight, not a balloon...
 
-> **SORA:** *(laughing)* "She." See, I knew you liked this ship more than you let on.
+> **June:** *(laughing)* "She." See, I knew you liked this ship more than you let on.
 
 *(bit of a pause)*
 
-> **SORA:** *(more serious, quieter)* Hey. It's going to be fine. The crystal, I mean.
+> **June:** *(more serious, quieter)* Hey. It's going to be fine. The crystal, I mean.
 
 > **WREN:** *(after a moment)* You don't know that.
 
-> **SORA:** No. But you fixed a heat engine in twenty minutes that I'd been staring at for half a day. If anyone can talk a roomful of Spire officials into doing the right thing, it's you.
+> **June:** No. But you fixed a heat engine in twenty minutes that I'd been staring at for half a day. If anyone can talk a roomful of Spire officials into doing the right thing, it's you.
 
-*(Wren doesn't answer that directly. Sora takes the controls.)*
+*(Wren doesn't answer that directly. June takes the controls.)*
 
-> **SORA:** Spire's a long way off. Strap in.
+> **June:** Spire's a long way off. Strap in.
 
 *(The airship lifts off, probably create aeronautics, but can also be a camera trick)*
 
