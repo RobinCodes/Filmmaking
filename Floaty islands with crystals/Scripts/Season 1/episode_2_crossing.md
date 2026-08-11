@@ -275,7 +275,7 @@
 
 *(Wren hesitates. June looks at her.)*
 
-> **WREN:** *(carefully)* Our cluster's crystal is cracked. We're going to petition for a keeper.
+> **WREN:** *(carefully)* Cluster stuff. We're going to petition, boring paperwork.
 
 *(Rell goes quiet for a moment - something that she doesn't show fully.)*
 
@@ -300,7 +300,7 @@
 
 > **HASK:** You also didn't name a price. That's worse.
 
-> **RELL:** *(stops, turns to him)* A cluster with a dying crystal, heading straight for a Spire petitions hall. That's not nothing Hask. That's a door.
+> **RELL:** *(stops, turns to him)* Two young people sent to do paperwork heading straight for a Spire petitions hall. That's not nothing Hask. That's a door.
 
 > **HASK:** *(flat)* A door to what?
 
