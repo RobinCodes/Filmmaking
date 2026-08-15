@@ -1,58 +1,136 @@
 # Episode 1: "PILOT"
 
-**Series:** *Floaty Islands with crystals* (working title)
-**Runtime target:** 10–15 minutes (Would love 20-25 but it's a bit out of budget, this one is around 7-10...)
-**Threads featured:** A (Tethermoor) — primary main storyline, B (The Spire) — secondary storyline with "the government"
-**Max on-screen at once:** 4 (Scene 4)
+**Floaty Islands with crystals** (working title)
+
+**Episode runtime target:** 8 minutes (measures 6 minutes 50 seconds*)
+
+## Storylines:
+
+### A Tethermoor:
+
+ - A/1: Main quest, Wren and June trying to save Tethermoor
+
+### B The Spire:
+
+ - B/1: Crystal crisis caused by the Mothercrystal's decline, the rationing vote and its political consequences
 
 ---
 
-## SPOILER WARNING
-## Exposition
-### I suggest you don't read this for full immersion, only read if you don't understand the story, or after you read the script
+## Exposition - SPOILER WARNING
+### Do not read this part for full immersion, it contains information not directly stated in the actual script. 
 
-> The Sundering: big event a few hundred years ago, which scattered the world into floating islands with crystals.
+- The Sundering was a big event hundreds of years ago, which scattered the world into floating island.
 
-> "Clusters" are a small group of islands held up and together by a crystal. Most of them have a Central Island, which is considerably larger than the few smaller ones surrounding it. Examples are Tethermoor and the Spire.
+- "Clusters" are small groups of islands held up and together by a crystal. Most of them have a central island, which is considerably larger than the few smaller ones surrounding it. 
 
-> The Spire refers to "the central cluster", its main island, or the government running on it (the government has power through the distribution of crystals, the world is otherwise really roughly  or not at all regulated).
+- The Spire can refer to:
+  The area around which the world is centered
+  The biggest cluster, one in the middle of the center area
+  The main island of the before mentioned cluster
+  The government, running mainly on this cluster and its main island
 
-> Crystals are what make islands float/keep them together. Smaller crystals are "grown" on the Mothercrystal, and then distributed by The Spire. Smaller crystals power the airships, but some older ones float via balloon. the crystals only make the ships float, they still need an engine to move. 
+- The power of the government comes from distribution of crystals, the farther you get from The Spire the less regulated the world becomes
 
-> The Hallowsen quake (working name, AI) is some kind of crystal shaking event, happened before most of our main cast was born, the only one to really live through it is Yara, as she's really old (I mean 100+ or possibly 200+, whatever fits the story best). Marl was only a few years old back then, but he really likes to talk about experiencing it.
+- Crystals posess power to keep material floating, and bound together. The size and quality of a crystal is proportional to its power. Clusters are held up by such crystals, opposed to natural islands (which have them somewhere in the ground) most clusters have a crystal housing (central building with the crystal) where the crystal floats in containment. Airships can also be powered by crystals, usually smaller ones. The crystal only keeps the ship afloat, it still needs other power to move. Crystals are also a source of an electricity-like power. Combining theese two qualities expensive "official" ships (made by the Spire) do not need fuel to work, because their movement is powered crystal energy. Harvesting the electric energy from crystals is a very delicate process, much harder than attaching something to the crystal to make it float.
+
+- The Hallowsen quake (working name) is an event referenced by Marl, it happened long before most of our main cast was born. Little is revealed about it, other than the fact it had something to do with crystals.
 
 ## Characters appearing / mentioned in this episode
 
-*Voicing notes included for each — gender can be flipped if it suits cast better (which it probably will)*
-*Names were AI generated, may change them later*
+*Voicing notes included for each
+*Some names were picaked from an AI generated list, may change them later*
 
-### Thread A — Tethermoor (the outer cluster)
+### Thread A - Tethermoor 
 
-- **Wren** — protagonist. **Female.** Late teens. The cluster's engineer/fixer — the one who keeps things running when no one else can. Practical, a little stubborn, takes responsibility for things that aren't her fault. Voice should be grounded and direct, she doesn't waste words, doesn't perform emotion, but it leaks through at the edges. Not loud. Most comfortable when she's solving something with her hands.
+#### **Wren** 
 
-- **Pip** — Wren's younger sibling and apprentice. **Gender-flexible** (written gender-neutral). Maybe 8-10 years old in tone. Curious, talks too much when nervous, looks up to Wren completely. Voice should be bright, a little fast, prone to blurting things out before thinking. Softens instantly when scared.
+ - Protagonist, **female.** Aged 20-22
 
-- **Yara** — the cluster elder. **Female.** Keeper of pre-Sundering stories and fragments. Calm, speaks carefully, knows more than she says. Voice should be slow and deliberate, she never rushes a sentence, which makes it land harder when she finally says something blunt. Warm, but a little distant, like she's always thinking two steps ahead.
+ - Tethermoor's engineer and fixer, and exceptionally talented at it. She genuinely enjoys engineering and likes keeping things working, often becoming invested in problems simply because something being broken bothers her. Thoughtful and practical, but not always cautious: when she has time, she likes to think things through, while situations involving people she cares about can push her into acting first and thinking afterward. Reserved around strangers and rarely starts conversations herself. Her strongest instinct is to protect the people she cares about.
 
-- **Doss** — the cluster's pragmatic leader. **Male.** Not unkind, but conflict-averse; has spent years keeping Tethermoor's head down so the Spire never has a reason to notice them. Voice should be tired-but-steady, a bit gruff, the tone of someone used to being the one who says "no" so nobody else has to. Softens noticeably around Pip.
+ - Appearance: Steampunk-influenced mechanic's clothing.
 
-- **June** — *legacy: Sora* - Wren's best friend; airship mechanic and occasional pilot. **Female.**  Confident, a little reckless, talks fast and teases easily, but genuinely reliable when it counts. The contrast to Wren: where Wren is careful and methodical, June is impulsive and improvises. Voice should be loose, energetic, quick with a joke, but capable of being completely serious in a heartbeat when something actually matters.
+ - Voicing notes: Grounded and direct, with little unnecessary performance. She is reserved, not emotionless, not loud. She is most comfortable when she has something practical to focus on.
 
-- **Marl** — one-time / secondary character. **Male.** Older resident, lives near the crystal house. First to notice the crack. Voice should be weathered, unhurried, a little superstitious, someone who's lived through enough island history to be calm about most things.
 
-### Thread B — The Spire 
+#### **June** 
 
-- **Overseer Castellan Vey** — head of the ruling Council. **Female.** Composed, tired in a way, she hides well. Voice should be measured and quiet even under pressure — she rarely raises her voice, which makes her authority feel earned rather than forced.
+ - Secondary protagonist, Wren's best friend, **female.** Aged 20-22
 
-- **Councilor Brask** — hardliner on the Council. **Male.** Mentioned / seen briefly. Sets up future conflict. Voice should be clipped, impatient — someone who treats hesitation as weakness.
+ - An airship mechanic and occasional pilot who is confident, energetic, and highly comfortable improvising. She enjoys adventure and rarely spends much time asking whether an idea is sensible before trying it. She takes risks partly because she trusts herself to handle whatever goes wrong. Loyal to Wren. More technically competent than she is passionate about engineering; fixing things is a useful skill to her rather than the center of her identity. Socially much more outgoing than Wren and often acts as the person who keeps conversations moving.
 
-- **Sela** - (Mentioned but not appearing this episode) — a Spire petitions clerk (name-dropped by Doss as "who you'll have to go through" — sets up later episode).
+ - Appearance: Slightly shorter than Wren, with a similar steampunk aesthetic.
+
+ - Voicing notes: Loose, energetic and quick. Comfortable with jokes and teasing, but able to become completely serious without hesitation when something genuinely matters.
+
+#### **Pip**
+
+ - Wren's younger sibling, written **male.** Child, aged ~8
+
+ - Curious, energetic, and still young enough to say what they are thinking before considering whether they should. Looks up to Wren and is eager to learn from her, but is not being raised by Wren; Tethermoor is responsible for raising Pip. Pip is still young enough that fear, excitement and curiosity tend to appear openly.
+
+ - Voicing notes: Bright and youthful, slightly fast when excited or nervous. Blurts things out easily. Fear should make Pip quieter rather than theatrical.
+
+#### **Yara** 
+
+ - The elder of Tethermort **female**.
+An elderly woman with a long memory and a deep knowledge of the world's older history. Warm and grandmotherly toward younger people, but also mischievous and fond of tricking naive people simply because she finds it funny. She doesn't do it maliciously and knows when to stop playing. Patient, observant and comfortable withholding information, partly because she has an enormous amount of knowledge and partly because she enjoys watching people discover things for themselves.
+
+ - Appearance: Gray hair, old-fashioned/grandmotherly clothing. 
+
+ - Voicing notes: Slow, warm and deliberate. Her humor should come from how innocently she delivers something manipulative or mischievous. When she is serious, it should be subtle but unmistakable.
+
+
+#### Doss 
+
+ - Tethermoor's leader. Male. Mid-to-late 40s. 
+
+ - An experienced, pragmatic leader who values Tethermoor's stability over grand gestures. He knows how difficult the Spire is to deal with and has little interest in wasting effort on fights that aren't necessary. Formerly worked as a Spire official before leaving and moving to Tethermoor, giving him practical knowledge of how the Spire operates. Comfortable being the person responsible for making decisions. Protective of the cluster without being particularly idealistic.
+
+ - Appearance: Black hair with some gray, especially showing his age. Usually wears neat, semi-official clothing.
+
+ - Voicing notes: Steady and practical. He sounds like someone accustomed to being responsible for decisions. Not timid; his caution should come from experience.
+
+#### Marl 
+
+ - Older resident of Tethermoor,  **male**. Late 50s to early 60s. 
+
+ - An experienced older resident who has lived through enough changes to be difficult to surprise. He is particularly interested in Tethermoor's crystal and notices the problem with it early. Calm, conversational and somewhat fond of recounting old experiences.
+
+ - Voicing notes: Weathered and unhurried. He should sound experienced rather than frail.
+
+### Thread B - The Spire 
+
+#### Overseer Castellan Vey 
+ 
+ -  Head of the Spire's government, **female**. Mid-30s.
+
+ - A highly composed and morally driven leader who genuinely believes the Spire's system can be made better. She tries to solve problems without unnecessary harm and believes that given enough information and effort, almost any crisis can be resolved. Extremely strong emotional self-control allows her to remain calm under pressure, but that control has become partly deliberate: she has learned not to let other people see when she is struggling. Deeply lonely and accustomed to relying almost entirely on herself, she has very few genuine personal relationships. Her few connections that she considers friendships therefore matter more to her than she is likely to admit.
+
+ - Appearance: Shorter, has orange-blonde hair, Formal official clothing.
+
+ - Voicing notes: Measured, quiet and controlled. She doesn't need to raise her voice to establish authority. Even when emotionally strained, she tries to maintain the same controlled rhythm. Rare moments where that control slips should feel significant.
+
+#### Councilor Commander Brask 
+
+ - Head of the Spire's military and law enforcement, **male**. Mid-40s.
+
+ - A disciplined, pragmatic commander who believes difficult decisions should be made before circumstances force worse ones. He prefers accepting a smaller loss early if it prevents a much larger loss later. Direct and impatient with hesitation, but not needlessly aggressive and not opposed to Vey personally. He genuinely respects Vey and would rather be proven right alongside her than replace her. His methods are effective in situations where immediate action is necessary, but his confidence in them can make him underestimate situations that require patience or a different approach.
+
+ - Appearance: Muscular, short military-style haircut and formal military uniform.
+
+ - Voicing notes: Confident and direct. Not angry. He should sound like someone who is accustomed to making decisions under pressure.
+
+#### Sela 
+ - (Mentioned but not appearing this episode)
+
+ - a Spire petitions clerk name-dropped by Doss, appears in episode 6
 
 ---
 
-## Scene 1: The Spire, Mothercrystal Vault
+## Scene 1 - The Spire, Mothercrystal Vault
 
-*(Thread B.)*
+*(B/1, 30s)*
 
 **SETTING:** A high-ceilinged vault deep in the Spire. The Mothercrystal hangs in the center supported by ropes, with tubes on some sides, glowing faintly.
 
@@ -64,11 +142,11 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 > **BRASK:** Down again. Quarter percent since last night.
 
-*(Vey says nothing — she keeps looking at the crystal.)*
+*(Vey says nothing, she keeps looking at the crystal.)*
 
-> **BRASK:** The outer clusters don't need to know that.
+> **BRASK:** We don't need to tell anyone on the outside.
 
-> **VEY:** They'll know it the moment their own stones start dimming, Brask.
+> **VEY:** They'll know it the moment their crystals start dimming, Brask.
 
 > **BRASK:** Then we tighten the ration before they notice. Buy time.
 
@@ -79,9 +157,9 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 ---
 
-## Scene 2: Tethermoor, Crystal house
+## Scene 2 - Tethermoor, Crystal house
 
-*(Thread A.)*
+*(A/1, 45s)*
 
 **SETTING:** Morning, maybe sunrise. Wren is repairing something in the crystal house, tools laid out. 
 
@@ -101,13 +179,16 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 *(Wren walks to the crystal, looks at it)*
 
+*(cracking sound, Wren turns her head looking at the crystal from a different angle)
+
 > **WREN:** It's not on the surface. It's inside.
 
-> **MARL:** Is that bad?
+> **MARL:** Is it bad?
 
 > **WREN:** *(looks at Marl)* I don't know yet. I need to talk to Yara.
 
 *(Wren starts gathering her tools quickly. Marl lingers, walking around the crystal, looking at it from different angles)*
+
 *(Wren finishes packing tools, Marl walks up to her as she's about to leave)*
 
 > **MARL:** Wren. The island held the Hallowsen quake fine. It'll hold this.
@@ -118,19 +199,19 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 ---
 
-## Scene 3 — Tethermoor, Yara's house
+## Scene 3 - Tethermoor, Yara's house
 
-*(Thread A.)*
+*(A/1, 70s)*
 
 **SETTING:** Small, cluttered house with bookshelves everywhere. Cozy, warm, grandma's house feeling. Yara is sorting books on the shelves. Wren enters.
 
-> **WREN:** Yara. The housing crystal... it's cracked... from the inside.
+> **WREN:** Yara. The crystal... it's cracked... from the inside.
 
 *(Yara isn't surprised. She stops sorting books.)*
 
 > **YARA:** Tell me.
 
-> **WREN:** It's the same color it's always been. Same glow. But there's this small fracture, barely visible, right through the center. And it also makes cracking noises.
+> **WREN:** It looks normal, just has a crack inside. It also makes cracking noises.
 
 *(Yara is quiet for a moment)*
 
@@ -138,17 +219,13 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 > **WREN:** Starved of what?
 
-> **YARA:** Whatever feeds them. Nobody knows what it is anymore. We only know how to keep them where they're put, and hope.
+> **YARA:** Whatever feeds 1em. Nobody knows what it is anymore. We just keep them where they're put, and hope.
 
 *(Wren is a bit frustrated, more than scared.)*
 
 > **WREN:** That's not good enough. All of our lives are on this island!
 
-> **YARA:** *(looks at Wren)* Then you'll need more than hope. You'll need to go to the Spire.
-
-> **WREN:** *(kinda annoyed)* The Spire doesn't let anyone touch a crystal but their own keepers. None of us knows how to fix our crystal, and we can't just replace it ourselves, even if we had one to replace it with.
-
-> **YARA:** Then you ask them to send a keeper. To look at it. Replace it, if it's bad enough.
+> **YARA:** *(looks at Wren)* Then you'll need more than hope. You'll need to go to the Spire. Ask them to send a keeper. To look at it. Replace it, if it's bad enough
 
 > **WREN:** *(quiet, realizing the weight of the situation)* They don't send keepers out for clusters like us. Not without a fight.
 
@@ -162,9 +239,9 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 ---
 
-## Scene 4 — Tethermoor, Social square
+## Scene 4 - Tethermoor, Social square
 
-*(Thread A.)*
+*(A/1, 110s)*
 
 **SETTING:** Midday. Doss is looking in barrels. Pip is next to him, running around him. Wren and Yara arrive together.
 
@@ -176,7 +253,7 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 > **WREN:** I want to go to the Spire. Ask them to send a keeper out to inspect the crystal, and replace it if it has to be replaced.
 
-> **DOSS:** *(sighing)* Wren—
+> **DOSS:** *(sighing)* Wren-
 
 *(Wren cuts Doss off)*
 
@@ -184,7 +261,7 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 > **DOSS:** Then you already know it's a bad idea. The Spire doesn't send keepers out for clusters like us. You go asking for a replacement crystal, they'll want to know why yours is failing. And if you can't answer, it means more trouble for you.
 
-> **YARA:** This isn't trouble-making, Doss. It's the cluster's crystal. If it fails—
+> **YARA:** This isn't trouble-making, Doss. It's the cluster's crystal. If it fails-
 
 > **DOSS:** *(cuts Wren off, calmly)* I know what it means if it fails. I've lived here longer than any of you.
 
@@ -200,9 +277,9 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 > **WREN:** *(happily, little bit excited, repeating louder than Doss)* No detours. No trouble.
 
-*(Doss sighs, as if he doesn't fully believe Wren)*
+*(Doss sighs, he doesn't fully believe Wren)*
 
-> **DOSS:** It's too far to walk there on bridges. *(little bit more quietly, as a remark)* I'm not even sure we are connected to the central islands via bridge. *(remark ends here)* You'll need a ship to make the crossing. And when you reach the petitions hall, ask for the clerk by name. Sela. Tell them I sent you. This way you can maybe skip the line, if you're lucky you'll be heard in a few hours, instead of the usual days it takes...
+> **DOSS:**  You'll need a ship to make the crossing. And when you reach the petitions hall, ask for the clerk by name. Sela. Tell them I sent you. This way you can maybe skip the line, if you're lucky you'll be heard in a few hours, instead of the usual days it takes...
 
 > **WREN:** *(thinks for a second)* ...I might know where to find a ship.
 
@@ -228,9 +305,9 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 ---
 
-## Scene 5 — Tethermoor, airship dock
+## Scene 5 - Tethermoor, airship dock
 
-*(Thread A.)*
+*(A/1, 70s)*
 
 **SETTING:** Afternoon. Dock with around 3-4 airship spaces. Only one airship in the dock in a repair area, June is inside it, muttering to herself, tools scattered around. The airship hangs on ropes holding it up/keeping it from falling. Wren approaches.
 
@@ -240,7 +317,7 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 > **WREN:** *(little bit annoyed, but also friendly, as she knows her friend)* June...
 
-> **June:** *(comes out from the airship)* It flew. Past tense. The crystal can barely even lift itself, it probably broke before any of us were even born. So this is one of the few ships which has a working balloon! Or just had... Some old sailor crashed it into our dock after the heat engine broke.
+> **June:** *(comes out from the airship)* It flew. Past tense. The crystal can barely even lift itself, it probably broke before any of us were even born. So it has working balloon! Or just had... Some old sailor crashed it into our dock after the heat engine broke.
 
 > **WREN:** Can you fix it?
 
@@ -264,17 +341,17 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 > **WREN:** It's cracked. I need them to send a keeper out before it gets worse.
 
-> **June:** *(lighter again, trying to keep it from getting too heavy)* Well. Lucky for you, I happen to know an excellent mechanic.
+> **June:** *(lighter again, trying to keep it from getting too heavy)* Well. Lucky for you, I happen to know an excellent mechanic!
 
 > **WREN:** *(ready for work)* Hand me the small spanner!
 
 ---
 
-## Scene 6 — Tethermoor, airship dock (same as previous scene)
+## Scene 6 - Tethermoor, airship dock, on board
 
-*(Thread A.)*
+*(A/1, 85s)*
 
-**SETTING:** A little bit later (20 minutes stated), make an epic transition, they fix the airship
+**SETTING:** A little bit later, make an epic transition, they fix the airship
 
 > **June:** *(handing her a part)* You know, if I give you a ride, that technically makes it a trade. I should get something out of this too.
 
@@ -294,7 +371,7 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 > **WREN:** There. This will hold up until we get to the Spire. But you should get it properly checked when we get there, *(jokingly)* you don't want to crash it on a random cluster and sell it for a barrel of bread. Or, if you're such a good trader you could buy an airship crystal for her, she deserves a proper way of flight, not a balloon...
 
-> **June:** *(laughing)* "She." See, I knew you liked this ship more than you let on.
+> **June:** *(laughing)* "She."? See, I knew you liked this ship more than you let on.
 
 *(bit of a pause)*
 
@@ -302,13 +379,13 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 > **WREN:** *(after a moment)* You don't know that.
 
-> **June:** No. But you fixed a heat engine in twenty minutes that I'd been staring at for half a day. If anyone can talk a roomful of Spire officials into doing the right thing, it's you.
+> **June:** *(jokingly, less serious)* Nope.
 
 *(Wren doesn't answer that directly. June takes the controls.)*
 
-> **June:** Spire's a long way off. Strap in.
+> **June:** Still taking you.
 
-*(The airship lifts off, probably create aeronautics, but can also be a camera trick)*
+*(The airship lifts off)*
 
 > **WREN:** *(quiet, looking back at the island)* Marl says the island held the Hallowsen quake fine.
 
@@ -325,10 +402,8 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 ## Production notes
 
-- **Builds needed for Ep1:** Tethermoor crystal house (Scene 2), Yara's house interior (Scene 3), community square (Scene 4), airship yard with a grounded airship (Scenes 5-6), Spire Mothercrystal vault (Scene 1).
-- **Recurring set reuse:** Scenes 2, 3, 4, 5, and 6 can all live on the *same* small Tethermoor island, just different corners/structures so we're not building five separate locations from scratch.
-- **Airship build note:** small airship, will be reused, should have an inside which can be entered, containing its mechanics, could probably use a small cabin as well. Supposed to be small.
-- **Max on-screen count:** Most we need is 4 people at once.
-
-- *Scene 1, terminal from which Vey reads may be done via a lectern with book.*
-- *Scene 2, tools laid out: invis item frames.*
+- **Builds needed for Ep1: Spire Mothercrystal vault (Scene 1), Tethermoor crystal house (Scene 2), Yara's house interior (Scene 3), community square (Scene 4), airship yard with a grounded airship (Scenes 5-6)
+- Recurring set reuse: Scenes 2, 3, 4, 5, and 6 are all on the same small Tethermoor island, just different corners/structures so we're not building five separate locations from scratch. (also they are all on Tethermoor in universe)
+- Airship build note: small airship, will be reused, should have an inside which can be entered, containing its mechanics, could probably use a small cabin as well. Supposed to be small.
+- Max on-screen count: Scene 4: Wren, Doss, Pip, Yara (4 total)
+- * Time measurement was made by reading the script as if I was saying it, and waiting out some of the actions. Depending on my reading speed and non-speaking parts it may be inaccurate, I'm hoping its shorter than what the actual episode will be
