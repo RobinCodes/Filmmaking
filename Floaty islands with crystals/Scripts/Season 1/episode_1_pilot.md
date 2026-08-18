@@ -19,14 +19,14 @@
 ## Exposition - SPOILER WARNING
 ### Do not read this part for full immersion, it contains information not directly stated in the actual script. 
 
-- The Sundering was a big event hundreds of years ago, which scattered the world into floating island.
+- The Sundering was a big event hundreds of years ago, which scattered the world into floating islands.
 
 - "Clusters" are small groups of islands held up and together by a crystal. Most of them have a central island, which is considerably larger than the few smaller ones surrounding it. 
 
 - The Spire can refer to:
   The area around which the world is centered
   The biggest cluster, one in the middle of the center area
-  The main island of the before mentioned cluster
+  The main island of the aforementioned cluster
   The government, running mainly on this cluster and its main island
 
 - The power of the government comes from distribution of crystals, the farther you get from The Spire the less regulated the world becomes
@@ -38,13 +38,13 @@
 ## Characters appearing / mentioned in this episode
 
 *Voicing notes included for each
-*Some names were picaked from an AI generated list, may change them later*
+*Some names were picked from an AI generated list, may change them later*
 
 ### Thread A - Tethermoor 
 
 #### **Wren** 
 
- - Protagonist, **female.** Aged 20-22
+ - Protagonist, **female**. Aged 20-22
 
  - Tethermoor's engineer and fixer, and exceptionally talented at it. She genuinely enjoys engineering and likes keeping things working, often becoming invested in problems simply because something being broken bothers her. Thoughtful and practical, but not always cautious: when she has time, she likes to think things through, while situations involving people she cares about can push her into acting first and thinking afterward. Reserved around strangers and rarely starts conversations herself. Her strongest instinct is to protect the people she cares about.
 
@@ -55,7 +55,7 @@
 
 #### **June** 
 
- - Secondary protagonist, Wren's best friend, **female.** Aged 20-22
+ - Secondary protagonist, Wren's best friend, **female**. Aged 20-22
 
  - An airship mechanic and occasional pilot who is confident, energetic, and highly comfortable improvising. She enjoys adventure and rarely spends much time asking whether an idea is sensible before trying it. She takes risks partly because she trusts herself to handle whatever goes wrong. Loyal to Wren. More technically competent than she is passionate about engineering; fixing things is a useful skill to her rather than the center of her identity. Socially much more outgoing than Wren and often acts as the person who keeps conversations moving.
 
@@ -65,7 +65,7 @@
 
 #### **Pip**
 
- - Wren's younger sibling, written **male.** Child, aged ~8
+ - Wren's younger sibling, written **male**. Child, aged ~8
 
  - Curious, energetic, and still young enough to say what they are thinking before considering whether they should. Looks up to Wren and is eager to learn from her, but is not being raised by Wren; Tethermoor is responsible for raising Pip. Pip is still young enough that fear, excitement and curiosity tend to appear openly.
 
@@ -73,7 +73,7 @@
 
 #### **Yara** 
 
- - The elder of Tethermort **female**.
+ - The elder of Tethermoor, **female**.
 An elderly woman with a long memory and a deep knowledge of the world's older history. Warm and grandmotherly toward younger people, but also mischievous and fond of tricking naive people simply because she finds it funny. She doesn't do it maliciously and knows when to stop playing. Patient, observant and comfortable withholding information, partly because she has an enormous amount of knowledge and partly because she enjoys watching people discover things for themselves.
 
  - Appearance: Gray hair, old-fashioned/grandmotherly clothing. 
@@ -83,7 +83,7 @@ An elderly woman with a long memory and a deep knowledge of the world's older hi
 
 #### Doss 
 
- - Tethermoor's leader. Male. Mid-to-late 40s. 
+ - Tethermoor's leader, **male**. Mid-to-late 40s. 
 
  - An experienced, pragmatic leader who values Tethermoor's stability over grand gestures. He knows how difficult the Spire is to deal with and has little interest in wasting effort on fights that aren't necessary. Formerly worked as a Spire official before leaving and moving to Tethermoor, giving him practical knowledge of how the Spire operates. Comfortable being the person responsible for making decisions. Protective of the cluster without being particularly idealistic.
 
@@ -124,7 +124,7 @@ An elderly woman with a long memory and a deep knowledge of the world's older hi
 #### Sela 
  - (Mentioned but not appearing this episode)
 
- - a Spire petitions clerk name-dropped by Doss, appears in episode 6
+ - a Spire petitions clerk name-dropped by Doss, appears in episode 6.
 
 ---
 
@@ -179,7 +179,7 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 *(Wren walks to the crystal, looks at it)*
 
-*(cracking sound, Wren turns her head looking at the crystal from a different angle)
+*(cracking sound, Wren turns her head looking at the crystal from a different angle)*
 
 > **WREN:** It's not on the surface. It's inside.
 
@@ -219,7 +219,7 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 > **WREN:** Starved of what?
 
-> **YARA:** Whatever feeds 1em. Nobody knows what it is anymore. We just keep them where they're put, and hope.
+> **YARA:** Whatever feeds them. Nobody knows what it is anymore. We just keep them where they're put, and hope.
 
 *(Wren is a bit frustrated, more than scared.)*
 
@@ -279,7 +279,7 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 *(Doss sighs, he doesn't fully believe Wren)*
 
-> **DOSS:**  You'll need a ship to make the crossing. And when you reach the petitions hall, ask for the clerk by name. Sela. Tell them I sent you. This way you can maybe skip the line, if you're lucky you'll be heard in a few hours, instead of the usual days it takes...
+> **DOSS:** You'll need a ship to make the crossing. And when you reach the petitions hall, ask for the clerk by name. Sela. Tell them I sent you. This way you can maybe skip the line, if you're lucky you'll be heard in a few hours, instead of the usual days it takes...
 
 > **WREN:** *(thinks for a second)* ...I might know where to find a ship.
 
@@ -313,21 +313,21 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 > **WREN:** Please tell me that thing still flies.
 
-> **June:** *(not looking up, voice slightly muffled)* Define "flies."
+> **JUNE:** *(not looking up, voice slightly muffled)* Define "flies."
 
 > **WREN:** *(little bit annoyed, but also friendly, as she knows her friend)* June...
 
-> **June:** *(comes out from the airship)* It flew. Past tense. The crystal can barely even lift itself, it probably broke before any of us were even born. So it has working balloon! Or just had... Some old sailor crashed it into our dock after the heat engine broke.
+> **JUNE:** *(comes out from the airship)* It flew. Past tense. The crystal can barely even lift itself, it probably broke before any of us were even born. So it has a working balloon! Or just had... Some old sailor crashed it into our dock after the heat engine broke.
 
 > **WREN:** Can you fix it?
 
-> **June:** *(kinda ironic tone, kind)* Can *I* fix it? No. Can *you*? Probably, if you stopped asking questions and started looking at it.
+> **JUNE:** *(kinda ironic tone, kind)* Can *I* fix it? No. Can *you*? Probably, if you stopped asking questions and started looking at it.
 
 *(Wren laughs.)*
 
 > **WREN:** Do you think the sailor will let us borrow their ship?
 
-> **June:** No need, I bought the ship. Got it for a few gold and a barrel of bread. 
+> **JUNE:** No need, I bought the ship. Got it for a few gold and a barrel of bread. 
 
 > **WREN:** *(happy for her friend)* Oooooohhhh, so it's yours!
 
@@ -337,11 +337,11 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 *(June's grin fades slightly, looks at Wren for a second.)*
 
-> **June:** This about the crystal? Marl wouldn't stop talking about it.
+> **JUNE:** This about the crystal? Marl wouldn't stop talking about it.
 
 > **WREN:** It's cracked. I need them to send a keeper out before it gets worse.
 
-> **June:** *(lighter again, trying to keep it from getting too heavy)* Well. Lucky for you, I happen to know an excellent mechanic!
+> **JUNE:** *(lighter again, trying to keep it from getting too heavy)* Well. Lucky for you, I happen to know an excellent mechanic!
 
 > **WREN:** *(ready for work)* Hand me the small spanner!
 
@@ -353,37 +353,37 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 **SETTING:** A little bit later, make an epic transition, they fix the airship
 
-> **June:** *(handing her a part)* You know, if I give you a ride, that technically makes it a trade. I should get something out of this too.
+> **JUNE:** *(handing her a part)* You know, if I give you a ride, that technically makes it a trade. I should get something out of this too.
 
 > **WREN:** *(not looking up)* You get a working ship.
 
-> **June:** I get a working ship I'm *flying you* in. Across open sky. To the Spire. Where I will almost certainly get bored in some waiting room while you talk to people in robes.
+> **JUNE:** I get a working ship I'm *flying you* in. Across open sky. To the Spire. Where I will almost certainly get bored in some waiting room while you talk to people in robes.
 
 > **WREN:** *(small laugh)* Fine. You can come in with me.
 
-> **June:** *(immediately, too quickly)* I didn't say I wanted to come in with you.
+> **JUNE:** *(immediately, too quickly)* I didn't say I wanted to come in with you.
 
 > **WREN:** *(glancing at her)* June.
 
-> **June:** ...Somebody's got to make sure you don't insult an Overseer's clerk by accident.
+> **JUNE:** ...Somebody's got to make sure you don't insult an Overseer's clerk by accident.
 
 *(Engine noises, the engine starts)*
 
 > **WREN:** There. This will hold up until we get to the Spire. But you should get it properly checked when we get there, *(jokingly)* you don't want to crash it on a random cluster and sell it for a barrel of bread. Or, if you're such a good trader you could buy an airship crystal for her, she deserves a proper way of flight, not a balloon...
 
-> **June:** *(laughing)* "She."? See, I knew you liked this ship more than you let on.
+> **JUNE:** *(laughing)* "She."? See, I knew you liked this ship more than you let on.
 
 *(bit of a pause)*
 
-> **June:** *(more serious, quieter)* Hey. It's going to be fine. The crystal, I mean.
+> **JUNE:** *(more serious, quieter)* Hey. It's going to be fine. The crystal, I mean.
 
 > **WREN:** *(after a moment)* You don't know that.
 
-> **June:** *(jokingly, less serious)* Nope.
+> **JUNE:** *(jokingly, less serious)* Nope.
 
 *(Wren doesn't answer that directly. June takes the controls.)*
 
-> **June:** Still taking you.
+> **JUNE:** Still taking you.
 
 *(The airship lifts off)*
 
@@ -402,8 +402,8 @@ Overseer Vey stands alone before it, reading from a terminal. Councilor Brask en
 
 ## Production notes
 
-- **Builds needed for Ep1: Spire Mothercrystal vault (Scene 1), Tethermoor crystal house (Scene 2), Yara's house interior (Scene 3), community square (Scene 4), airship yard with a grounded airship (Scenes 5-6)
+- **Builds needed for Ep1:** Spire Mothercrystal vault (Scene 1), Tethermoor crystal house (Scene 2), Yara's house interior (Scene 3), community square (Scene 4), airship yard with a grounded airship (Scenes 5-6)
 - Recurring set reuse: Scenes 2, 3, 4, 5, and 6 are all on the same small Tethermoor island, just different corners/structures so we're not building five separate locations from scratch. (also they are all on Tethermoor in universe)
 - Airship build note: small airship, will be reused, should have an inside which can be entered, containing its mechanics, could probably use a small cabin as well. Supposed to be small.
 - Max on-screen count: Scene 4: Wren, Doss, Pip, Yara (4 total)
-- * Time measurement was made by reading the script as if I was saying it, and waiting out some of the actions. Depending on my reading speed and non-speaking parts it may be inaccurate, I'm hoping its shorter than what the actual episode will be
+- * Time measurement was made by reading the script as if I was saying it, and waiting out some of the actions. Depending on my reading speed and non-speaking parts it may be inaccurate, I'm hoping it's shorter than what the actual episode will be
