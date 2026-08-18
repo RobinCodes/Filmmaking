@@ -37,7 +37,7 @@
 
 ## Characters appearing / mentioned in this episode
 
-*Voicing notes included for each
+*Voicing notes included for each*
 *Some names were picked from an AI generated list, may change them later*
 
 ### Thread A - Tethermoor 
